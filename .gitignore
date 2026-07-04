@@ -1,0 +1,23 @@
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Misc
+*.log
